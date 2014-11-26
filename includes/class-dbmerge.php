@@ -187,6 +187,7 @@ class dbMerge {
 				case 'fam_rel':
 				case 'relationship':
 					$mvalue = $this->fix_relationship_type( $mvalue );
+					break;
 				case 'memb_user':
 					$mkey = 'username';
 					break;

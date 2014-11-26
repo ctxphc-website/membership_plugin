@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="CTXPHC Vagrant Dev Server">
+    <serverData>
+      <paths name="CTXPHC Vagrant Dev Server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="\" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/var/www/ctxphc.com/public_html/wp-admin" local="$PROJECT_DIR$/../../Wordpress/4.0.1/wp-admin" web="/wp-admin" />
+            <mapping deploy="/var/www/ctxphc.com/public_html/wp-includes" local="$PROJECT_DIR$/../../Wordpress/4.0.1/wp-includes" web="/wp-content" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
+
